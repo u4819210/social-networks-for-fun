@@ -8,5 +8,5 @@ A mobile dating application.
 
 == Wireframe ==
 
-  * [First User]
+  * [FirstUser First User]
   * [Login]
